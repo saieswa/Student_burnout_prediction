@@ -136,4 +136,7 @@ The system provides the following outputs:
 
 ---
 
-## 🗂 Project Structure
+## 🚀 Run the App
+```bash
+pip install streamlit joblib numpy pandas scikit-learn
+streamlit run app.py
