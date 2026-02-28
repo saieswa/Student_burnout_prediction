@@ -31,19 +31,14 @@ This project aims to **detect burnout risk early** using behavioural analytics a
 
 ---
 
-## 📊 Dataset Description
+## 📊 Dataset
+- **Type:** Public dataset with synthetically generated behavioural features  
+- **Source:** Kaggle – Student Dropout Analysis and Prediction Dataset  
+- **Link:** https://www.kaggle.com/datasets/abdullah0a/student-dropout-analysis-and-prediction-dataset?resource=download  
+- **Why Synthetic:** Real behavioural data (LMS logs, sentiment, irregularity) is not publicly available  
+- **Records:** (Mention number of records used)
 
-### Dataset Type
-**Public dataset with synthetically generated behavioural features**
 
-### Dataset Source
-- Kaggle – Student Performance / Dropout–related dataset  
-(Add the exact Kaggle link used)
-
-### Why This Dataset Fits Behavioural Analytics
-- Contains **academic performance and attendance indicators**
-- Can be extended to model **behavioural engagement patterns**
-- Suitable for predicting **burnout and dropout risk**
 
 ---
 
